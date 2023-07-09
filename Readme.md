@@ -1,7 +1,7 @@
 # Project: `Lushasa Web Scraping and MySQL database dumping project`
 
 ## Project Overview
-`Website`: https://www.lushusa.com/home
+`Website`: https://www.lushusa.com/home </br>
 This project involves scraping data from a website and storing it in a MySQL database using Python,  BeautifulSoup, and Airflow. This project is running in `Docker Container`.
 
 **Noted**
